@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "740374578938",
+    "firebase_url": "https://bmeforumaven0n.firebaseio.com",
+    "project_id": "bmeforumaven0n",
+    "storage_bucket": "bmeforumaven0n.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740374578938:android:d2bb479cd2815227",
+        "android_client_info": {
+          "package_name": "hu.bme.aut.amorg.examples.firebaseAVEN0N"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740374578938-aud7gg4i8u8f5dl41quirr3lhh060e6j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hu.bme.aut.amorg.examples.firebaseAVEN0N",
+            "certificate_hash": "e7c77f4afdf95051e07029519c5acbd91b45866e"
+          }
+        },
+        {
+          "client_id": "740374578938-9bn8o61e75ejek73eqjs2jte01hstq7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX533YrbeNWbvT1uHwWW49eKVghbxS7c8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740374578938-9bn8o61e75ejek73eqjs2jte01hstq7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
